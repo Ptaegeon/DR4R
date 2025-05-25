@@ -1,6 +1,16 @@
 
 # DR4R Season 6 - Lerobot 
 
+## Environment Information
+
+| Component       | Version    |
+|----------------|------------|
+| Python          | 3.10.14    |
+| PyTorch         | 2.6.0      |
+| TorchCodec      | 0.2.1      |
+| TorchVision     | 0.21.0     |
+| CUDA            | 12.2       |
+
 
 ## Train command 
 
