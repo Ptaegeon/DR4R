@@ -172,8 +172,4 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
-record.sh
-start.sh
-train_consistency.sh
-train.sh
-train2.sh
+script/
